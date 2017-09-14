@@ -1,9 +1,13 @@
-Code Book
+#Code Book
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
+
 Identifiers
 Subject - interger. The ID of the test subject
+
 Activity - string. Type of activity they were performing. 
+
 Measuremenets - numeric. Mean and Std Deviation for each activity for each subject.
+
 tBodyAccmeanX
 tBodyAccmeanY
 tBodyAccmeanZ
